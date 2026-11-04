@@ -74,7 +74,7 @@ const SERVICES = [
     points: ["Jump starts & battery issues", "Lockouts", "Flat tire changes & fuel delivery"],
   },
   {
-    icon: Route,
+    icon: RouteIcon,
     title: "Long-Distance Transport",
     image: longHaulImg,
     alt: "Flatbed tow truck carrying a car on an open highway at dusk",

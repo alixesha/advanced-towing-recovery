@@ -5,7 +5,7 @@ import {
   CircleDollarSign,
   KeyRound,
   PhoneCall,
-  Route,
+  Route as RouteIcon,
   Snowflake,
   Truck,
 } from "lucide-react";
